@@ -28,7 +28,7 @@ This project demonstrates key web development concepts along with basic AI logic
 
 ## 📦 File Structure
 
-📁 tic-tac-toe-game/
+📁 tic-tac-toe-game-
 ├── index.html # Game layout
 ├── style.css # Styling and emoji-based design
 ├── script.js # Game logic + AI + Sound
