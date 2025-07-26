@@ -13,7 +13,7 @@ This project demonstrates key web development concepts along with basic AI logic
 
 ## 🚀 Live Demo
 
-🔗 [Click here to play the game](https://yourusername.github.io/tic-tac-toe-game/)
+🔗 [Click here to play the game](https://yashexp-coder.github.io/PRODIGY_WD_03/)
 
 
 ---
